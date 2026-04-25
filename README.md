@@ -6,3 +6,5 @@ Estudiante de programación e ingeniería de sistemas, en constante aprendizaje 
 - C#
 - Python
 - Git
+
+[Mi Linkedln](www.linkedin.com/in/walter-samuel-bba9ab3b6)
