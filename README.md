@@ -1,7 +1,6 @@
 # Hola 👋
 
-Soy estudiante de programación e ingeniería de sistemas, enfocado en el aprendizaje continuo y el desarrollo de proyectos prácticos para fortalecer mis habilidades
-
+Estudiante de programación e ingeniería de sistemas, en constante aprendizaje y enfocado en crear proyectos que fortalezcan mis habilidades en desarrollo de software.
 ## Tecnologías que estoy aprendiendo
 
 - C#
