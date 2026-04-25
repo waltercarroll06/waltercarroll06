@@ -9,7 +9,7 @@ Estudiante de programación e ingeniería de sistemas, en constante aprendizaje 
 
 [Linkedln](www.linkedin.com/in/walter-samuel-bba9ab3b6)
 ---
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="200">
+<img src="https://user-images.githubusercontent.com/507615/90595977-95e70e80-e220-11ea-864a-6a61adaff212.png" width="400">
 
 
 # 💫 About Me:
