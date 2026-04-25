@@ -7,4 +7,4 @@ Estudiante de programación e ingeniería de sistemas, en constante aprendizaje 
 - Python
 - Git
 
-[Mi Linkedln](www.linkedin.com/in/walter-samuel-bba9ab3b6)
+[Linkedln](www.linkedin.com/in/walter-samuel-bba9ab3b6)
