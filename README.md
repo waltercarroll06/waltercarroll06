@@ -1,4 +1,4 @@
-# Hola 👋
+# 🚀 Walter | Developer
 
 Estudiante de programación e ingeniería de sistemas, en constante aprendizaje y enfocado en crear proyectos que fortalezcan mis habilidades en desarrollo de software.
 ## Tecnologías que estoy aprendiendo
