@@ -8,5 +8,4 @@ Estudiante de programación e ingeniería de sistemas, en constante aprendizaje 
 - Git
 
 [Linkedln](www.linkedin.com/in/walter-samuel-bba9ab3b6)
-![Linkedln](blob:https://web.whatsapp.com/ef16909f-eee8-4e8a-9cd2-1023eff43c95)
 
