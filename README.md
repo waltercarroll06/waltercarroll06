@@ -5,24 +5,130 @@
 <img src="https://user-images.githubusercontent.com/507615/90595977-95e70e80-e220-11ea-864a-6a61adaff212.png" width="800">
 
 
-# 💫 About Me:
-## 👨‍💻 About Me<br><br>- 🔭 I’m currently working on: Personal projects in Python and C#<br>- 🤝 I’m looking to collaborate on: Beginner-friendly software projects<br>- 🆘 I’m looking for help with: Improving my programming skills and project structure<br>- 🌱 I’m currently learning: Python, C#, OOP, Git & GitHub<br>- 💬 Ask me about: Python basics, classes, logic, and Git<br>- ⚡ Fun fact: I learn by building projects and improving every day 🚀
+# 🚀 Mi Camino en Programación
+### Walter Carroll | Estudiante de Ingeniería de Sistemas
 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=waltercarroll06&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=waltercarroll06&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=waltercarroll06&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=waltercarroll06&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Hola 👋 Este repositorio documenta mi proceso de aprendizaje en programación. Aquí aplico conceptos reales, construyo proyectos desde cero y mejoro día a día. 🚀
 
 ---
-[![](https://komarev.com/ghpvc/?username=waltercarroll06&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 Sobre mí
+
+- 🎓 Estudiante de **Ingeniería de Sistemas** (2do semestre)
+- 🎯 Meta principal: convertirme en **Científico de Datos**
+- 🎮 Hobby: desarrollo de videojuegos con **C# y Unity**
+- 📍 Colombia 🇨o
+
+---
+
+## ✅ Proyectos Completados
+
+### 🏦 App Bancaria (`proyect1.py`)
+Sistema de gestión bancaria con login, depósitos y retiros.
+- Diccionarios anidados
+- Manejo de excepciones
+- Sistema de intentos de login
+- Validación de datos
+
+### 🍔 App de Pedidos (`proyect2.py`)
+Sistema de pedidos para restaurante con cálculo de totales.
+- Listas de diccionarios
+- Funciones separadas por responsabilidad
+- Cálculo de subtotales y total general
+
+### 📚 Sistema de Inventario de Libros (`main.py` + `uixu.py`)
+Sistema para rentar libros con interfaz gráfica.
+- Manejo de archivos `.txt`
+- Interfaz gráfica con **Tkinter**
+- Organización por categorías
+- Registro con `datetime`
+
+### 🏦 App Bancaria con POO (`banco_poo.py`)
+Refactorización completa de la app bancaria usando Programación Orientada a Objetos.
+- Clases `Usuario` y `Banco`
+- Composición de objetos
+- Login con intentos
+- Depósitos y retiros por objeto
+
+### ⚔️ Simulación de Videojuego (`dia_1.py`)
+Sistema de combate inspirado en Dungeon Defenders.
+- Herencia: `Mago`, `Guerrero`, `Arquero`
+- Enemigos: `Ogro` (habilidad de fuerza), `Duende` (veneno con tiempo real)
+- Sistema de turnos
+- Probabilidad con `random`
+- Efectos con `time`
+
+---
+
+## 🔄 En Progreso
+
+### 🎮 Dungeon Defenders (Python)
+Réplica del videojuego de infancia en consola antes de pasarlo a Unity.
+- [ ] Sistema de oleadas de enemigos
+- [ ] Power ups
+- [ ] Sistema de veneno y efectos
+- [ ] Boss fights
+
+### 📊 Fase 3 - NumPy y Pandas
+Iniciando el camino en Ciencia de Datos.
+- [ ] Arrays con NumPy
+- [ ] DataFrames con Pandas
+- [ ] Análisis exploratorio de datos (EDA)
+- [ ] Visualización con Matplotlib
+
+---
+
+## 🔮 Próximamente
+
+### 🧪 Proyectos de Ciencia de Datos
+Proyectos conectados con mis materias universitarias:
+- 📐 **Álgebra Lineal + NumPy** → operaciones con matrices y vectores
+- 📈 **Cálculo Integral + Python** → calculadora de áreas bajo la curva
+- ⚡ **Física Mecánica + Python** → simulaciones de movimiento y caída libre
+
+### 🎮 Dungeon Defenders en Unity
+Versión completa del videojuego con gráficos en **C# y Unity**.
+
+### 🤖 Machine Learning
+- Regresión lineal y logística
+- Árboles de decisión
+- Redes neuronales con Keras/TensorFlow
+- Modelo predictivo completo
+
+---
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+---
+
+## 📈 Roadmap de Aprendizaje
+
+| Fase | Tema | Estado |
+|------|------|--------|
+| 1 | Python básico, funciones, estructuras de datos | ✅ Completada |
+| 2 | POO, herencia, composición, lambdas | ✅ Completada |
+| 3 | NumPy, Pandas, visualización | 🔄 En progreso |
+| 4 | Estadística y pensamiento analítico | ⏳ Próximamente |
+| 5 | Machine Learning | ⏳ Próximamente |
+
+---
+
+## 💡 Nota
+
+Este no es un proyecto final — es mi proceso de aprendizaje en tiempo real.
+Cada commit representa un paso más en mi camino como desarrollador. 👨‍💻🔥
+
+---
+
+## 🙌 Gracias por pasar
+
+Si estás viendo esto, gracias por tomarte el tiempo 🙌
+¡Se vienen cosas mejores! 🚀
